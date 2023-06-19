@@ -1,5 +1,5 @@
 ---
-slug: /
+sidebar_position: 1
 title: Thông tin chung
 tags: [HPT, QLTS, CSEP, QUẢN LÝ TÀI SẢN TẬP TRUNG]
 ---
@@ -27,4 +27,3 @@ Bộ giải pháp CSEP được xây dựng trên nền tảng (platform) của 
 ## Các ứng dụng thành phần
 
 ![img](../static/img/thanhphanCSEP.PNG)
-

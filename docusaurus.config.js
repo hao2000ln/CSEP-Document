@@ -21,8 +21,10 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
+          // to: 'docs/',
+          // activeBasePath: 'docs',
+          type: "docSidebar",
+          sidebarId: "tutorialSidebar",
           label: 'CSEP (Quản lý Tài Sản)',
           position: 'left',
         },
@@ -67,7 +69,7 @@ module.exports = {
         language: ["en"],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
-      }
+      },
     ]
   ]
 };
