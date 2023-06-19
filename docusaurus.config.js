@@ -2,7 +2,7 @@ module.exports = {
   title: 'CSEP',
   tagline: 'CSEP very good',
   favicon: 'img/favicon.svg',
-  url: 'https://hptdocumentcsep.vercel.app/',
+  url: 'https://csep-document.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
