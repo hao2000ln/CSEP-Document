@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: '💪 Quy trình hóa',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/quytrinhhoa.jpg',
     description: (
       <>
         Quy trình hóa các hoạt động liên quan đến nghiệp vụ quản lý tài sản để giúp cho công việc được minh bạch, hiệu quả và giảm thiểu sai sót.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: '🌎 Thông tin tập trung',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/minh-hoa-2.png',
     description: (
       <>
         Dữ liệu của <code>hàng triệu tài sản</code> được quản lý tập trung trên một ứng dụng duy nhất, giúp đưa ra cái nhìn tổng quan về hiện trạng của toàn bộ tải sản .
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: '💅 Độ tin cậy cao',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/taptrungtt.png',
     description: (
       <>
         Xây dựng và quản lý kế hoạch tài chính, mua sắm phù hợp, đảm bảo mua đúng/mua đủ/mua kịp thời. <br /><br />
