@@ -16,21 +16,23 @@ _Cho phép nhận các đơn điều chuyển tài sản từ chi nhánh, văn p
 
 2. Chọn tác vụ **Điều chuyển tài sản**
 
-* Màn hình danh sách phiếu điều chuyển tài sản
+- Màn hình danh sách phiếu điều chuyển tài sản
 
 ![Image](../img/addDieuchuyen.PNG)
 
 ```md title="Thông tin chi tiết màn hình danh sách"
 # Thông tin chung
-- Màn hình danh sách điều chuyển tài sản thể hiện thông tin cơ bản của bản ghi điều chuyển như: 
-"Mã phiếu, loại điều chuyển, trạng thái..."
+
+- Màn hình danh sách điều chuyển tài sản thể hiện thông tin cơ bản của bản ghi điều chuyển như:
+  "Mã phiếu, loại điều chuyển, trạng thái..."
 
 # Chức năng
+
 - Ngoài các chức năng cơ bản như
-    + Tìm kiếm nhanh chóng thông tin bản ghi
-    + Lọc theo nhiều tiêu chí
-    + Chức năng phân trang, thống kê số lượng bản ghi
-    + Chức năng sắp xếp tăng/giảm cột
+  - Tìm kiếm nhanh chóng thông tin bản ghi
+  - Lọc theo nhiều tiêu chí
+  - Chức năng phân trang, thống kê số lượng bản ghi
+  - Chức năng sắp xếp tăng/giảm cột
 
 Để xem chi tiết vui lòng click **bản ghi theo highlight của cột mã phiếu**!
 ```
@@ -38,6 +40,8 @@ _Cho phép nhận các đơn điều chuyển tài sản từ chi nhánh, văn p
 A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
 
 ## Luồng quy trình thực hiện
+
+![Image](../img/wfdieuchuyen.PNG)
 
 ## Tạo mới bản ghi
 
